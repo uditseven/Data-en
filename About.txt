@@ -1,7 +1,5 @@
 These codes were written to build an application for Windows OS that will work completely offline for data entry purposes.
 
-
 Usually while entering data in Excel sheet one has to work carefully.
-
 
 To avoid any mistake/confusion in data entry process, this application can be used to work more efficiently.
